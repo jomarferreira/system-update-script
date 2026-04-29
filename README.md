@@ -32,6 +32,8 @@ A Bash script designed to automate the Linux system update process by executing 
 🇧🇷 Não há pré-requisitos para este projeto.
 🇺🇸 No prerequisites are required for this project.
 
+---
+
 ## ▶️ Como executar | How to run
 ```bash
 git clone https://github.com/jomarferreira/system-update-script.git
